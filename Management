@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Video Dashboard</title>
+</head>
+<body>
+
+    <h1>Welcome to Your Video Dashboard</h1>
+
+    <p>Customer Video Links:</p>
+
+    <!-- Replace the following links with the actual video links for each customer -->
+    <ul>
+        <li><a href="videos/customer1/video1.mp4" target="_blank">Customer 1 Video</a></li>
+        <li><a href="videos/customer2/video2.mp4" target="_blank">Customer 2 Video</a></li>
+        <li><a href="videos/customer3/video3.mp4" target="_blank">Customer 3 Video</a></li>
+    </ul>
+
+</body>
+</html>
